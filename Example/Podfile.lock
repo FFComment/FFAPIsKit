@@ -26,9 +26,7 @@ PODS:
   - MBProgressHUD (1.1.0)
 
 DEPENDENCIES:
-  - AFNetworking
   - FFAPIsKit (from `../`)
-  - FFToolsKit
 
 SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
@@ -49,6 +47,6 @@ SPEC CHECKSUMS:
   FMDB: 6198a90e7b6900cfc046e6bc0ef6ebb7be9236aa
   MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
 
-PODFILE CHECKSUM: 3f33044dddbc1208f25a0d3e17500867397579ab
+PODFILE CHECKSUM: 3845a715c181b17032d2a4e3cff916eba8046266
 
 COCOAPODS: 1.5.0
